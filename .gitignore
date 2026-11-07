@@ -1,0 +1,11 @@
+.dart_tool/
+.idea/
+.vscode/
+build/
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Local secrets
+env.json
